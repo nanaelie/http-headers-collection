@@ -1,7 +1,9 @@
 <h1 align="center">Language / Language</h1>
 
-- [English](#english)
-- [Français](#français)
+<p  align="center">
+    <a href="#english">English</a>
+    <a href="#français">Français</a>
+</p>
 
 <br>
 
