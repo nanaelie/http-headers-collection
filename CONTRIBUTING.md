@@ -2,7 +2,9 @@
 # Language / Language
 
 - [English](#english)
-- [Français](#francais)
+- [Français](#français)
+
+<br><br><br>
 
 # English
 
@@ -28,12 +30,12 @@ Please follow this exact table format:
 * ❌ One or more fields are empty or vague
 * ❌ The contribution is not in a recognized language (French/English)
 
-### 👤 Author
-
+### 👤 Author<br>
 Maintained by [nanaelie](https://github.com/nanaelie)
-
+<br>
 Thanks for your contributions 💙
 
+<br><br><br>
 
 # Français
 
@@ -56,16 +58,13 @@ Merci de respecter ce format de tableau **obligatoire** :
 ### 🚫 Les Pull Requests seront refusées si...
 
 * ❌ Le format de tableau n’est pas respecté
-
 * ❌ Un ou plusieurs champs sont vides ou peu clairs
-
 * ❌ La contribution n’est pas en français ou en anglais
 
 > "Toutes les contributions doivent être faites en anglais dans le fichier headers.md pour faciliter la maintenance."
 
-### 👤 Auteur
-
+### 👤 Auteur<br>
 Maintenu par [nanaelie](https://github.com/nanaelie)
-
+<br>
 Merci pour vos contributions 💙
 
