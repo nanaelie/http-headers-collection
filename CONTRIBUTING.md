@@ -1,12 +1,12 @@
 
-# Language / Language
+<p align="center"><h1>Language / Language</h1></p>
 
 - [English](#english)
 - [Français](#français)
 
-<br><br><br>
+<br>
 
-# English
+<p align="center"><h1>English</h1></p>
 
 ## 🤝 Contributing Guidelines
 
@@ -35,9 +35,9 @@ Maintained by [nanaelie](https://github.com/nanaelie)
 <br>
 Thanks for your contributions 💙
 
-<br><br><br>
+<br>
 
-# Français
+<p align="center"><h1>Français</h1></p>
 
 ## 🤝 Guide de contribution
 
