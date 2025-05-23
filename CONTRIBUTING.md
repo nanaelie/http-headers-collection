@@ -1,12 +1,11 @@
-
-<p align="center"><h1>Language / Language</h1></p>
+<h1 align="center">Language / Language</h1>
 
 - [English](#english)
 - [Français](#français)
 
 <br>
 
-<p align="center"><h1>English</h1></p>
+<h1 align="center">English</h1>
 
 ## 🤝 Contributing Guidelines
 
@@ -37,7 +36,7 @@ Thanks for your contributions 💙
 
 <br>
 
-<p align="center"><h1>Français</h1></p>
+<h1 align="center">Français</h1>
 
 ## 🤝 Guide de contribution
 
@@ -61,7 +60,7 @@ Merci de respecter ce format de tableau **obligatoire** :
 * ❌ Un ou plusieurs champs sont vides ou peu clairs
 * ❌ La contribution n’est pas en français ou en anglais
 
-> "Toutes les contributions doivent être faites en anglais dans le fichier headers.md pour faciliter la maintenance."
+> *"Toutes les contributions doivent être faites en anglais dans le fichier headers.md pour faciliter la maintenance."*
 
 ### 👤 Auteur<br>
 Maintenu par [nanaelie](https://github.com/nanaelie)
