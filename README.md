@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=174C6LdbsdRFRCh7TB8ujYbUNyZeqwqol" alt="HTTP Headers" width="600"/>
-</p>
-
+![HTTP Headers](https://drive.google.com/uc?export=view&id=174C6LdbsdRFRCh7TB8ujYbUNyZeqwqol)
 
 # 🔐 HTTP Headers Collection
 
