@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="VhwERfKYRaBdoDmdbSRXoNpObwFDCmdNcqyrPztLoneipwkLYPcmnbsmqvqPJdgx.png" alt="HTTP Headers" width="600"/>
+  <img src="https://drive.google.com/uc?export=view&id=174C6LdbsdRFRCh7TB8ujYbUNyZeqwqol" alt="HTTP Headers" width="600"/>
 </p>
+
 
 # 🔐 HTTP Headers Collection
 
